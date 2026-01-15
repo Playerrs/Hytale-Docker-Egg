@@ -4,10 +4,10 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2026-01-15T00:37:48-03:00",
+    "exported_at": "2026-01-15T00:39:26-03:00",
     "name": "Hytale",
     "author": "josueplayerrs@gmail.com",
-    "description": null,
+    "description": "Egg version 1.6",
     "features": null,
     "docker_images": {
         "Java 25": "ghcr.io\/ptero-eggs\/yolks:java_25"
